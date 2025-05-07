@@ -8,7 +8,7 @@ Sharing my journey at [@alexhollidev](https://x.com/alexhollidev) #buildinpublic
 ---
 
 ## Tech Stack
-- Languages: Python, C++, JavaScript
+- Languages: Python, C++
 - Tools: Git, CLI, JUCE (learning), VS Code
 - Currently learning: Flask, JUCE, React
 
