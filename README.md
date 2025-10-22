@@ -8,33 +8,20 @@ Sharing my journey at [@alexhollidev](https://x.com/alexhollidev) #buildinpublic
 ---
 
 ## Tech Stack
-- Languages: Python, C++
-- Tools: Git, CLI, JUCE (learning), VS Code
-- Currently learning: Flask, JUCE, React
+- Languages and Databases: Python, C++, SQL (SQLite), HTML, CSS
+- Tools: Git, CLI, JUCE (learning), VS Code, Pycharm, Cursor, XCode
+- Frameworks: Django, Pandas, JUCE, Librosa, Streamlit, Tkinter
 
 ---
 
 ## Projects
 Here are a few tools I've built recently:
 
-- [BPM Calculator CLI](https://github.com/alex-hollingsworth1/bpm-cli-tool)  
-  Find BPMs of audio files quickly from the command line.
+- [H Soundworks CLI Audio Toolkit](https://github.com/alex-hollingsworth1/hsoundworks-cli-audio-tools)  
+  Python command-line toolkit for audio file inspection, visualization, and batch processing workflows.
 
-- [Audio File Checker](https://github.com/alex-hollingsworth1/audio-file-checker)  
-  Validate and report on audio files in bulk.
-
-- [Audio Converter CLI](https://github.com/alex-hollingsworth1/audio-converter-cli)  
-  Batch convert audio formats for easier music workflow.
-
----
-
-## Blog (Coming Soon)
-I’ll be sharing blog posts about:
-- How I build my tools
-- Lessons from my dev journey
-
-Stay tuned or follow me on [Twitter/X](https://x.com/alexhollidev) to get updates.
-
+- [Personal Expense Tracker](https://github.com/alex-hollingsworth1/AlexHollingsworth_Expense_Tracker_Capstone)  
+  Comprehensive command-line expense tracking application with SQLite database for managing personal finances.
 ---
 
 ## GitHub Stats
@@ -46,6 +33,3 @@ Stay tuned or follow me on [Twitter/X](https://x.com/alexhollidev) to get update
 ## Connect With Me
 
 - Twitter/X: [@alexhollidev](https://x.com/alexhollidev)
-- Website/Blog: [Coming Soon](#)
-
-_Last updated: May 07, 2025_
