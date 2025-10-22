@@ -1,8 +1,8 @@
 # Hi there, I'm Alex
 
 Music maker turned developer  
-Bootcamp + CS50 student  
-Building audio tools with Python & C++  
+Imperial College/HyperionDev Bootcamp Graduate
+Building audio tools with Python & C++ 
 Sharing my journey at [@alexhollidev](https://x.com/alexhollidev) #buildinpublic
 
 ---
