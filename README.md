@@ -8,9 +8,9 @@ Sharing my journey at [@alexhollidev](https://x.com/alexhollidev) #buildinpublic
 ---
 
 ## Tech Stack
-- Languages and Databases: Python, C++, SQL (SQLite), HTML, CSS
+- Languages and Databases: Python, JavasScript, C++, SQL (SQLite), HTML, CSS
 - Tools: Git, CLI, JUCE (learning), VS Code, Pycharm, Cursor, XCode
-- Frameworks: Django, Pandas, JUCE, Librosa, Streamlit, Tkinter
+- Frameworks: Django, React, Pandas, JUCE, Librosa, Streamlit, Tkinter
 
 ---
 
