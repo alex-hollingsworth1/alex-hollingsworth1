@@ -2,8 +2,7 @@
 
 Music maker turned developer  
 Imperial College/HyperionDev Bootcamp Graduate
-Building audio tools with Python & C++ 
-Sharing my journey at [@alexhollidev](https://x.com/alexhollidev) #buildinpublic
+Building audio tools with Python & C++
 
 ---
 
