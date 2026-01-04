@@ -21,11 +21,6 @@ Here are a few tools I've built recently:
 
 - [Personal Expense Tracker](https://github.com/alex-hollingsworth1/AlexHollingsworth_Expense_Tracker_Capstone)  
   Comprehensive command-line expense tracking application with SQLite database for managing personal finances.
----
-
-## GitHub Stats
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-hollingsworth1&show_icons=true&theme=radical)
 
 ---
 
