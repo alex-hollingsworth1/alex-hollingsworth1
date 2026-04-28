@@ -7,9 +7,9 @@ Building audio tools with Python & C++
 ---
 
 ## Tech Stack
-- Languages and Databases: Python, JavaScript, C++, SQL (SQLite), HTML, CSS
+- Languages and Databases: Python, C++, JavaScript, SQL (SQLite), HTML, CSS
 - Tools: Git, CLI, JUCE (learning), VS Code, Pycharm, Cursor, XCode
-- Frameworks: Django, React, Pandas, JUCE, Librosa, Streamlit, Tkinter
+- Frameworks: JUCE, Librosa, Django, Flask, React, Pandas, Streamlit, Tkinter
 
 ---
 
